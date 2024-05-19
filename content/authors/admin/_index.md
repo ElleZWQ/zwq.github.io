@@ -40,7 +40,7 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Xi'an Jiaotong University
       year: "2021-2025"
-    - course: IPA student in [Tensor Learning Team](https://aip.riken.jp/labs/generic_tech/tensor_learn/?lang=en)
+    - course: IPA student in Tensor Learning Team
       institution: RIKEN AIP
       year: "2023-2024"
     - course: MEng in Artificial Intelligence
