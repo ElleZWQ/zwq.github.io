@@ -30,8 +30,8 @@ bio: My research interests include Causal Discovery, Domain Adaptation / General
 # Interests to show in About widget
 interests:
   - Causal Discovery
-  - Domain Adaptation / Generalization
-  - Adversarial Attack / Defense
+  - Domain Adaptation / Domain Generalization
+  - Adversarial Attack / Adversarial Defense
   - Theology
 
 # Education to show in About widget
